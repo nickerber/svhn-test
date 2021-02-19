@@ -1,0 +1,26 @@
+<annotation>
+	<folder>training_data</folder>
+	<filename>155.png</filename>
+	<path>C:\Users\ern\Desktop\Julia App\ML\own_digits\training_data\155.png</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>153</width>
+		<height>71</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>7</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>68</xmin>
+			<ymin>15</ymin>
+			<xmax>88</xmax>
+			<ymax>56</ymax>
+		</bndbox>
+	</object>
+</annotation>
